@@ -1,3 +1,3 @@
-const ServerApi="https://banl-lone-new-project.onrender.com";
+const ServerApi="your_backend_url";
 
 export default ServerApi
